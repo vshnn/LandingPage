@@ -177,14 +177,13 @@ button{
 }
 
 .item-outline{
-    padding: 50% 50%;
-    height: 20%;
-    width: 20% ;
-    border-radius: 0.8cm;
-    background-color: #c40c27;
+    /* border: 2px solid red; */
+  
+}
 
-    
-
+.boxcar{
+    width: 100%;
+    height: 100%;
 }
 
 .item-desc{
@@ -239,6 +238,9 @@ button{
     justify-content: center;
     align-items: center;
     padding: 5% 0;
+    width: 80%;
+    margin: 0 auto;
+    
 }
 
 
@@ -271,7 +273,8 @@ button{
 
 .layer3 button{
     background-color: #c40c27;
-    color:#F9FAF8
+    color:#F9FAF8;
+    
 }
 
 
